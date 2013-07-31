@@ -21,7 +21,7 @@
 ;;
 ;;; Commentary:
 ;;
-;; `top-o-the-mornin` is a modern top-like interface for Emacs. It
+;; `top-o-the-mornin' is a modern top-like interface for Emacs. It
 ;; provides CPU and load monitoring as well as basic task management.
 ;;
 ;;; Installation:

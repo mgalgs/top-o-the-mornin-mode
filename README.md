@@ -4,7 +4,8 @@
 ---
 
 `top-o-the-mornin` is a modern top-like interface for Emacs. It
-provides CPU and load monitoring as well as basic task management.
+provides CPU and load monitoring as well as (TODO) basic task
+management.
 
 ### Installation
 
@@ -16,11 +17,12 @@ Put this file on your load path and do
 ### Usage
 
 
-Fire up top-o-the-mornin:
+Fire up `top-o-the-mornin`:
 
     M-x top-o-the-mornin
 
-When in top-o-the-mornin mode the following keybindings are active:
+When in `top-o-the-mornin` mode the following keybindings are
+active:
 
     q - quit
     g - refresh

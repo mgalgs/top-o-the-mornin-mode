@@ -2,6 +2,7 @@
 *A modern top-like interface for Emacs*
 
 ---
+[![License GPLv3](https://img.shields.io/badge/license-GPL_v3-green.svg)](http://www.gnu.org/licenses/gpl-3.0.html)
 
 `top-o-the-mornin` is a modern top-like interface for Emacs. It
 provides CPU and load monitoring as well as (TODO) basic task

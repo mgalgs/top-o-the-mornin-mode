@@ -1,3 +1,4 @@
+<a href="https://github.com/mgalgs/top-o-the-mornin-mode"><img src="https://www.gnu.org/software/emacs/images/emacs.png" alt="Emacs Logo" width="80" height="80" align="right"></a>
 ## top-o-the-mornin.el
 *A modern top-like interface for Emacs*
 
@@ -28,8 +29,9 @@ active:
     q - quit
     g - refresh
 
-### Function Documentation
 
+
+### Function and Macro Documentation
 
 #### `(top-o-the-mornin)`
 

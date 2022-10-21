@@ -5,6 +5,7 @@
 ;; Author: Mitchel Humpherys <mitch.special@gmail.com>
 ;; Keywords: tools, convenience
 ;; Version: 0.1
+;; URL: https://github.com/mgalgs/top-o-the-mornin-mode
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
